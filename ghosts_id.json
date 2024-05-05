@@ -1,0 +1,32 @@
+{
+    "ghosts": {
+      "count": 1,
+      "ghost_ids": {
+        "0": {
+          "name": "Exemple Ghost",
+          "description": "Short description of the ghost, it's general character and behavior",
+          "skills": [
+            "skill1_id",
+            "skill2_id"
+          ],
+          "interact_profile": {
+            "bell": 0,
+            "book": 5,
+            "photo_camera": 0,
+            "candle": "3",
+            "dots": 4,
+            "emf": 3,
+            "flashlight": 0,
+            "motion_sensor": 5,
+            "ouija_board": 1,
+            "paramic": 5,
+            "spirit_box": 3,
+            "uv_print": 3,
+            "temperature": 0,
+            "video_camera": 3,
+            "player_proximity": 0
+          }
+        }
+      }
+    }
+  }
