@@ -9,6 +9,7 @@
             "skill1_id",
             "skill2_id"
           ],
+          "interact_range": [10, 15, 25],
           "interact_profile": {
             "bell": 0,
             "book": 5,
